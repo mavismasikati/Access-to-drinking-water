@@ -9,13 +9,13 @@ This spreadsheet project explores global access to drinking water using data ana
 - Applied functions like `IF`, `VLOOKUP`, `ROUND`, and `FILTER`
 - Summarized countries with full access and those with declining trends
   
-   Files Included
+   Files Included:
 
 - `access_to_drinking_water.xlsx` – Main spreadsheet with all data and analysis
 - `charts/` – Folder containing exported images of key charts
 - `README.md` – Project overview
 
-  Sample Analysis
+  Sample Analysis:
 
 - Sub-Saharan Africa shows the largest gap between rural and national access
 - High-income countries have near-universal access
