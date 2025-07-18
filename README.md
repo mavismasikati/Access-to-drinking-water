@@ -27,4 +27,6 @@ This spreadsheet project explores global access to drinking water using data ana
   - google sheets
   - VLOOKUP & IF statements    
   - Bar, Line, stacked charts
+
+    link:https://docs.google.com/spreadsheets/d/1xsWz4ZwO1jqNdNwgBJcBEnJGo0gdwtN9cm43qQZcc0Q/edit?usp=sharing
     
